@@ -21,7 +21,7 @@ public class test6
     }
 }
  
-    // char charAt(int Index) = 문자열에서 해당 위치(Index)에 있는 문자를 반환한다.
+    // char charAt(Index) = 문자열에서 해당 위치(Index)에 있는 문자를 반환한다.
     // int length() = 문자열의 길이를 반환한다.
     // String substring(int from, int to) = 문자열에서 해당 범위(from~to)의 문자열을 반환한다.(to는 포함 안됨)
     // boolean equals(Object obj) = 문자열의 내용이 같은지 확인한다. 같으면 결과는 true, 다르면 false
