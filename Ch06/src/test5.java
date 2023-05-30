@@ -5,6 +5,7 @@ public class test5 {
         
         Static.all_sumf(); // 객체 생성 없이 호출이 가능
         Static.all_sumf(); // 객체 생성 없이 호출이 
+//        Static.each_sumf();
         
         Static st1 = new Static();
         st1.each_sumf();
