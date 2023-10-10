@@ -30,7 +30,6 @@ public class test4 {
 		p2.age_print();
 		p1.age_print();
 		
-		
 	}
 
 }
